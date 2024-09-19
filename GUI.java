@@ -39,7 +39,7 @@ public class GUI implements ActionListener{
     GregorianCalendar gcalendar;
 
     /* Colour Menu */
-    JMenuItem iCol1 , iCol2 , iCol3;
+    JMenuItem iCol1 , iCol2 , iCol3, iCol4, iCol5, iCol6, iCol7;
 
     File fun = new File(this);
     Format format = new Format(this);
@@ -237,6 +237,24 @@ public class GUI implements ActionListener{
         iCol3.addActionListener(this);
         iCol3.setActionCommand("Blue");
         menuColour.add(iCol3);
+
+        iCol4 = new JMenuItem("Green");
+        iCol4.addActionListener(this);
+        iCol4.setActionCommand("Green");
+        menuColour.add(iCol4);
+
+        iCol5 = new JMenuItem("Light Grey");
+        iCol5.addActionListener(this);
+        iCol5.setActionCommand("Light Grey");
+        menuColour.add(iCol5);
+        iCol6 = new JMenuItem("Pink");
+        iCol6.addActionListener(this);
+        iCol6.setActionCommand("Pink");
+        menuColour.add(iCol6);
+        iCol7 = new JMenuItem("Red");
+        iCol7.addActionListener(this);
+        iCol7.setActionCommand("Red");
+        menuColour.add(iCol7);
     }
 
     @Override
@@ -279,6 +297,14 @@ public class GUI implements ActionListener{
             case "Black"         : col.changeColour(command); 
                                     break; 
             case "Blue"          : col.changeColour(command); 
+                                    break;
+            case "Green"          : col.changeColour(command); 
+                                    break;
+            case "Light Grey"          : col.changeColour(command); 
+                                    break;
+            case "Pink"          : col.changeColour(command); 
+                                    break;
+            case "Red"          : col.changeColour(command); 
                                     break;
             case "Copy to Stack" :  edit.editText(command);
                                     break;

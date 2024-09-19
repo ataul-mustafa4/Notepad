@@ -25,6 +25,22 @@ public class Colour {
                           gui.textArea.setBackground(Color.blue);
                           gui.textArea.setForeground(Color.white);
                           break;
+            case "Green": gui.window.getContentPane().setBackground(Color.green);
+                          gui.textArea.setBackground(Color.green);
+                          gui.textArea.setForeground(Color.white);
+                          break;
+            case "Light Grey": gui.window.getContentPane().setBackground(Color.lightGray);
+                          gui.textArea.setBackground(Color.lightGray);
+                          gui.textArea.setForeground(Color.black);
+                          break;
+            case "Pink": gui.window.getContentPane().setBackground(Color.pink);
+                          gui.textArea.setBackground(Color.pink);
+                          gui.textArea.setForeground(Color.black);
+                          break;
+            case "Red": gui.window.getContentPane().setBackground(Color.red);
+                          gui.textArea.setBackground(Color.red);
+                          gui.textArea.setForeground(Color.white);
+                          break;
 
         }
     }
