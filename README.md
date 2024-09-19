@@ -1,5 +1,9 @@
 # Notepad (TextEditor)
-![image](https://user-images.githubusercontent.com/89564330/171341934-785b951b-0900-417c-9f79-651c934c33fd.png)
+![image](Images/Screenshot 2024-09-20 004628.png)
+![image](Images/Screenshot 2024-09-20 004633.png)
+![image](Images/Screenshot 2024-09-20 004640.png)
+![image](Images/Screenshot 2024-09-20 004646.png)
+![image](Images/Screenshot 2024-09-20 004651.png)
 
 --> Java based Notepad with Stack type clipboard to keep multiple strins in clipboard\
 --> Graphical User Interface made by Java Swing\
