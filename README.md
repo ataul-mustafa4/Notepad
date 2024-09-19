@@ -1,9 +1,10 @@
 # Notepad (TextEditor)
-![image](Images/Screenshot 2024-09-20 004628.png)
-![image](Images/Screenshot 2024-09-20 004633.png)
-![image](Images/Screenshot 2024-09-20 004640.png)
-![image](Images/Screenshot 2024-09-20 004646.png)
-![image](Images/Screenshot 2024-09-20 004651.png)
+![image](https://github.com/ataul-mustafa4/Notepad/blob/main/Images/Screenshot%202024-09-20%20004628.png)
+![image](https://github.com/ataul-mustafa4/Notepad/blob/main/Images/Screenshot%202024-09-20%20004633.png)
+![image](https://github.com/ataul-mustafa4/Notepad/blob/main/Images/Screenshot%202024-09-20%20004640.png)
+![image](https://github.com/ataul-mustafa4/Notepad/blob/main/Images/Screenshot%202024-09-20%20004646.png)
+![image](https://github.com/ataul-mustafa4/Notepad/blob/main/Images/Screenshot%202024-09-20%20004651.png)
+
 
 --> Java based Notepad with Stack type clipboard to keep multiple strins in clipboard\
 --> Graphical User Interface made by Java Swing\
